@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b38d73a9-3c85-4e96-990c-c21ed8e06771" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Mentoria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/poo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/desafio/dio/poo/java/bootcamp/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +80,19 @@
       <option name="project" value="LOCAL" />
       <updated>1658592989176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mentoria e Curso">
+      <created>1658595271412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658595271412</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="Mentoria e Curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mentoria e Curso" />
   </component>
 </project>
